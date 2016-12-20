@@ -1,0 +1,18 @@
+
+
+.thisbox {
+	margin-top: 20px; 
+	height: 150px;
+	width: 300px;
+	border: 1px solid purple;
+	border-radius: 5px;
+	float: right;
+	background: #DFE69E;
+	font-family: 'Cuprum', sans-serif;
+	display: none;
+
+}
+
+header .links a:hover {
+	border-bottom: 4px solid #D112ED;
+}
